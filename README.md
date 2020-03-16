@@ -34,10 +34,12 @@ tell me the problem in feedback option
 
 Nope, its clean but token grabber builder option make some antivirus's think its malware so trust me its clean you can use it with no risk
 
-[Discord Server](https://discord.gg/RmrrGT8)
-Arabic Tutorial [Youtube Video](https://www.youtube.com/watch?v=K72qCPTUsWw) 
-
 
 # Special Thanks To:
 - N3k4a
 - Dark7oveRR
+
+
+[Discord Server](https://discord.gg/RmrrGT8)
+
+Arabic Tutorial [Youtube Video](https://www.youtube.com/watch?v=K72qCPTUsWw) 
