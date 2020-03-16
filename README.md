@@ -30,6 +30,8 @@ tell me the problem in feedback option
 - you can get token informations by choosing token information option
 
 # is it a malware ?
+![virustotalresult](https://g.top4top.io/p_1536mu1km1.png)
+
 Nope, its clean but token grabber builder option make some antivirus's think its malware so trust me its clean you can use it with no risk
 
 ![Discord Server](https://discord.gg/RmrrGT8)
