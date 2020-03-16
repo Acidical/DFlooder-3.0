@@ -29,6 +29,12 @@ tell me the problem in feedback option
 - token checker 
 - you can get token informations by choosing token information option
 
+# Note:
+On some options there is delay option,
+the delay should be in seconds ! for example if you type 1
+it will be 1 second .
+
+
 # is it a malware ?
 ![virustotalresult](https://g.top4top.io/p_1536mu1km1.png)
 
