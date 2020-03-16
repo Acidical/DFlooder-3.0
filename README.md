@@ -36,8 +36,8 @@ Nope, its clean but token grabber builder option make some antivirus's think its
 
 
 # Special Thanks To:
-- N3k4a
-- Dark7oveRR
+- N3k4a (Edit)
+- Dark7oveRR (Design)
 
 
 [Discord Server](https://discord.gg/RmrrGT8)
