@@ -49,3 +49,7 @@ Nope, its clean but token grabber builder option make some antivirus's think its
 [Discord Server](https://discord.gg/RmrrGT8)
 
 Arabic Tutorial [Youtube Video](https://www.youtube.com/watch?v=K72qCPTUsWw) 
+
+
+# Latest News:
+- We noticed that some users cant even launch the tool !, so we changed the .net framework version of the tool to 4.5 so it can be run on all windows updates and with all users.
