@@ -4,6 +4,8 @@
 
 ![tool](https://d.top4top.io/p_1536vt8nl1.png)
 
+# Download:
+[Here](https://evilhax.xyz/index.php?/files/file/3-dflooder/)
 
 # Requirements:
 - Latest version of [.net framework](https://dotnet.microsoft.com/download/dotnet-framework/net472) (4.7.2)
@@ -51,5 +53,6 @@ Nope, its clean but token grabber builder option make some antivirus's think its
 Arabic Tutorial [Youtube Video](https://www.youtube.com/watch?v=K72qCPTUsWw) 
 
 
-# Latest News:
+# Latest Updates Log:
 - We noticed that some users cant even launch the tool !, so we changed the .net framework version of the tool to 4.5 so it can be run on all windows updates and with all users.
+- Nitro Claimer Option !
