@@ -51,7 +51,7 @@ Nope, its clean but token grabber builder option make some antivirus's think its
 
 [Discord Server](https://discord.gg/RmrrGT8)
 
-Arabic Tutorial [Youtube Video](https://www.youtube.com/watch?v=K72qCPTUsWw) 
+[Arabic Tutorial Youtube Video](https://www.youtube.com/watch?v=K72qCPTUsWw) 
 
 
 # Latest Updates Log:
