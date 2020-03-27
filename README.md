@@ -9,7 +9,7 @@
 [Tool Website](https://dflooder.glitch.me/)
 
 # Requirements:
-- Latest version of [.net framework](https://dotnet.microsoft.com/download/dotnet-framework/net472) (4.7.2)
+- 4.5.2 .net framework or newer version
 
 
 # Issues ?:
