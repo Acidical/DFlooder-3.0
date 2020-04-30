@@ -41,7 +41,7 @@ it will be 1 second .
 # is it a malware ?
 ![virustotalresult](https://j.top4top.io/p_1581ydwth1.png)
 
-Nope, its clean but token grabber builder option make some antivirus's think its malware so trust me its clean you can use it with no risk
+Nope, its clean but token grabber builder option make some antivirus's think its malware, also its encrypted so trust me its clean you can use it with no risk
 
 
 # Special Thanks To:
